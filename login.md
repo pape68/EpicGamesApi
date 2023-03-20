@@ -1,8 +1,8 @@
 # Logga in classeviva
 
-**Description**: `Logga nel tuo account di ClasseViva` \
+**Description**: `Logga nel tuo account di ClasseViva` 
 
-## ENDPOINT 
+## Endpoint 
 
 https://web.spaggiari.eu/rest/v1/auth/login
 
